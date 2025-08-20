@@ -16,6 +16,7 @@ The aim is to build reliable, data-driven models that capture both **pollution p
 
 * Data was **downloaded from the official CPCB (Central Pollution Control Board, India) website**.
 * All available **station-level CSV files** were **combined into a single Excel file (`all_station11.csv`)** for uniform processing.
+* Dataset Link - https://drive.google.com/drive/folders/152-kOpYCYEpjXLlE563m06OrmDr2RJiN?usp=drive_link
 
 ### 📌 Coverage
 
